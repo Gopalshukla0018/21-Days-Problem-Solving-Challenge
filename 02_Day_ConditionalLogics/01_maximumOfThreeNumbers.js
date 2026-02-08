@@ -26,7 +26,6 @@
 // console.log("Maximum number is: ", max);
 // console.timeEnd("Execution Time");
 
-
 console.time("Execution Time");
 const nums = [10, 20, 30];
 const max = Math.max(...nums);
