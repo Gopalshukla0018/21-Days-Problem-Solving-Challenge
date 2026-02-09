@@ -39,3 +39,7 @@ function checkVowelOrConsonant(char) {
 console.log(checkVowelOrConsonant("a"));
 console.log(checkVowelOrConsonant("b"));
 console.log(checkVowelOrConsonant("5"));
+
+
+
+
