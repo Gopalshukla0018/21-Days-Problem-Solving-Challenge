@@ -9,7 +9,7 @@
 // ***
 // ****
 // *****
-// ✨ Teaches nested loops and increasing sequence printing.
+//  Teaches nested loops and increasing sequence printing.
 
 
 
