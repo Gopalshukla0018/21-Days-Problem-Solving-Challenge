@@ -2,7 +2,7 @@
 
 // Input: 2024
 // Output: Leap Year
-// ✨ Builds compound condition logic using multiple if statements (%4, %100, %400).
+//  Builds compound condition logic using multiple if statements (%4, %100, %400).
 // A year is a leap year if it satisfies these conditions:
 
 // It is divisible by 4,
